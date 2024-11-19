@@ -61,9 +61,9 @@ st.markdown("""
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Loading the saved models
-diabetes_model = pickle.load(open('C:/Users/singh/OneDrive/Desktop/Multiple Disease Prediction/saved models/trained_diabetes_model.sav', 'rb'))
-heart_disease_model = pickle.load(open('C:/Users/singh/OneDrive/Desktop/Multiple Disease Prediction/saved models/trained_heart_model.sav', 'rb'))
-parkinsons_disease_model = pickle.load(open('C:/Users/singh/OneDrive/Desktop/Multiple Disease Prediction/saved models/trained_parkinsons_model.sav', 'rb'))
+diabetes_model = pickle.load(open('trained_diabetes_model.sav', 'rb'))
+heart_disease_model = pickle.load(open('trained_heart_model.sav', 'rb'))
+parkinsons_disease_model = pickle.load(open('trained_parkinsons_model.sav', 'rb'))
 
 # Sidebar for navigation
 with st.sidebar:
