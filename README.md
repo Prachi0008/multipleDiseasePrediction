@@ -30,7 +30,19 @@ Each model was trained and tested using comprehensive datasets to ensure robustn
 The application is deployed on **Streamlit Cloud**, making it publicly available. Users can interact with the system to get disease predictions based on their input parameters.
 
 ---
+## Requirements
+This project uses a requirements.txt file to manage dependencies. Install the required packages by running:
+pip install -r requirements.txt
 
+*Key Dependencies*
+Streamlit: For building the web interface.
+Pandas, NumPy: For data manipulation and preprocessing.
+Scikit-learn: For machine learning model building and evaluation.
+Matplotlib, Seaborn: For visualizing data and results.
+
+Ensure Python 3.8 or higher is installed for compatibility.
+
+---
 ## How to Use  
 1. **Access the Website**: Visit https://multiplediseaseprediction-bennett-aiandsociety.streamlit.app/  
 2. **Input Data**: Fill in the required parameters for the disease you want to predict.  
