@@ -32,7 +32,7 @@ The application is deployed on **Streamlit Cloud**, making it publicly available
 ---
 
 ## How to Use  
-1. **Access the Website**: Visit the [Streamlit Cloud link](#) (insert link here).  
+1. **Access the Website**: Visit https://multiplediseaseprediction-bennett-aiandsociety.streamlit.app/  
 2. **Input Data**: Fill in the required parameters for the disease you want to predict.  
 3. **Get Results**: View the prediction and take necessary actions based on the results.  
 
