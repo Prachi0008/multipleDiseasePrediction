@@ -34,7 +34,8 @@ The application is deployed on **Streamlit Cloud**, making it publicly available
 This project uses a requirements.txt file to manage dependencies. Install the required packages by running:
 pip install -r requirements.txt
 
-*Key Dependencies*
+*Key Dependencies* 
+
 Streamlit: For building the web interface.
 Pandas, NumPy: For data manipulation and preprocessing.
 Scikit-learn: For machine learning model building and evaluation.
