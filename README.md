@@ -31,7 +31,8 @@ The application is deployed on **Streamlit Cloud**, making it publicly available
 
 ---
 ## Requirements
-This project uses a requirements.txt file to manage dependencies. Install the required packages by running:
+This project uses a requirements.txt file to manage dependencies. 
+Install the required packages by running:
 pip install -r requirements.txt
 
 *Key Dependencies* 
