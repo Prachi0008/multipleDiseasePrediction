@@ -38,8 +38,11 @@ pip install -r requirements.txt
 *Key Dependencies* 
 
 Streamlit: For building the web interface.
+
 Pandas, NumPy: For data manipulation and preprocessing.
+
 Scikit-learn: For machine learning model building and evaluation.
+
 Matplotlib, Seaborn: For visualizing data and results.
 
 Ensure Python 3.8 or higher is installed for compatibility.
@@ -64,9 +67,14 @@ Ensure Python 3.8 or higher is installed for compatibility.
 ## Results
 
 Achieved high prediction accuracy for each disease model through thorough evaluation and optimization.
+
 Diabetes Prediction model on being applied with SVM (Linear Kernel) shows ~81% test accuracy.
+
 Heart Disease Prediction on application with Logistic Regression shows 84.2% accuracy.
+
 Parkinson's disease Prediction model shows training accuracy of 91%. 
+
+
 ---
 
 ## Future Scope  
