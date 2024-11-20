@@ -47,11 +47,12 @@ The application is deployed on **Streamlit Cloud**, making it publicly available
 
 ---
 
-## Results  
+## Results
+
 Achieved high prediction accuracy for each disease model through thorough evaluation and optimization.
 Diabetes Prediction model on being applied with SVM (Linear Kernel) shows ~81% test accuracy.
 Heart Disease Prediction on application with Logistic Regression shows 84.2% accuracy.
-Parkinson's disease Prediction model shows an accuracy of 
+Parkinson's disease Prediction model shows training accuracy of 91%. 
 ---
 
 ## Future Scope  
